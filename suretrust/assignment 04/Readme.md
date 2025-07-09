@@ -1,4 +1,4 @@
-**📝 Assignment Name:** Assignment-03-Flexbox
+**📝 Assignment Name:** Assignment-04-Flexbox
 
  **🔗 Assignment Link:**  
  [**https://65e6c5c98f1f1c614d8d87d2--extraordinary-crepe-efa409.netlify.app/**](https://65e6c5c98f1f1c614d8d87d2--extraordinary-crepe-efa409.netlify.app/)
@@ -14,5 +14,4 @@
 
 * **You can use any images of your choice.**
 
-**⏰ Deadline: 10-07-2025**
 
